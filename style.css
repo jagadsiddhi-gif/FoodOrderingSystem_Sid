@@ -1,0 +1,9 @@
+/* style.css - added improvements */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+body { font-family: 'Roboto', sans-serif; background-color: #f8f9fa; }
+.navbar-brand { font-weight:700; }
+.card-food { border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+.food-img { height:180px; object-fit:cover; border-top-left-radius:12px; border-top-right-radius:12px; }
+.banner { background-image: url('/images/banner.jpg'); background-size: cover; background-position: center; color: white; padding: 60px 20px; border-radius: 8px; margin-bottom:20px; }
+.footer { padding:20px 0; text-align:center; color:#666; margin-top:40px; }
+.offcanvas-user { width: 280px; }
